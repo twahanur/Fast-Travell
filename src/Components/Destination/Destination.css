@@ -1,0 +1,17 @@
+.DestinationPageBackgroundImage{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("https://i.ibb.co/NYkwShH/annie-spratt-qy-Aka7-W5u-MY-unsplash.jpg");
+    width: 100%;
+    min-height: 100vh !important;
+    background-position:center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+.DestinationPageBackgroundImage img{
+    height: 300px;
+}
+.borderDesign{
+    border: 1px solid rgb(21, 255, 0);
+    font-size:30px;
+    color:white;
+}

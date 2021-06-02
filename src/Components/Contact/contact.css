@@ -1,0 +1,9 @@
+.contactCss{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("https://i.ibb.co/4Vz9tMK/408151.jpg");
+    width: 100%;
+    min-height: 100vh !important;
+    background-position:center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.blogCss{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("https://i.ibb.co/ZJpjWF7/1881717.jpg");
+    width: 100%;
+    min-height: 100vh !important;
+    background-position:center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}

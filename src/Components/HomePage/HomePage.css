@@ -1,0 +1,17 @@
+.homePageBackgroundImage{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("https://wallpaperaccess.com/full/185289.jpg");
+    width: 100%;
+    min-height: 100vh !important;
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    color: white;
+    margin: 0;
+}
+.placeImg {
+    height: 450px;
+}
+.placeImg img {
+    height: 320px;
+}
